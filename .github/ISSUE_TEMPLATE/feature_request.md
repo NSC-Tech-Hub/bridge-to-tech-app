@@ -1,20 +1,8 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+# Quick Start Guide for New Members
 
----
+Welcome to the NSC Tech Hub. Follow these steps to get synced:
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+1. **Read the Roots:** Review `GOVERNANCE.md` and `VETTING_LOOP.md` in this repo.
+2. **Join your Team:** Ensure you have been added to the correct GitHub Team (Liaisons or Production).
+3. **Claim an Issue:** Go to the `projects` repository and look for issues labeled `help wanted` or `ready for dev`.
+4. **Setup Environment:** Technical specifications will be updated here following the initial Project Kickoff. Please check back for required Node.js versions and VS Code extensions.

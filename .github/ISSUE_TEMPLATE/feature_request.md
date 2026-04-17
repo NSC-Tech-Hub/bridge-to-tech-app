@@ -1,11 +1,4 @@
----
-name: Feature Request
-about: Suggest an idea for the Bridge to Tech project
-title: '[FEAT]: '
-labels: 'status: vetting'
-assignees: ''
-
----
+Welcome to the NSC Tech Hub. Follow these steps to get synced:
 
 ## 📝 Description
 Describe the feature you are proposing. What problem does it solve for the user?

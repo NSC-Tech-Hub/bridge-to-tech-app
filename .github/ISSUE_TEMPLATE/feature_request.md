@@ -1,20 +1,24 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Feature Request
+about: Suggest an idea for the Bridge to Tech project
+title: '[FEAT]: '
+labels: 'status: vetting'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 📝 Description
+Describe the feature you are proposing. What problem does it solve for the user?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## ✅ Vetting Checklist
+- [ ] I have verified this asset/logic follows the **DESIGN_SPECS.md**.
+- [ ] This asset has passed the **VETTING_LOOP.md** (if applicable).
+- [ ] I have discussed this with my Department Liaison.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 🎨 Assets Needed
+List any images, logos, or copy required for this feature. 
+*(Note: Assets must be in WebP or SVG format per agency rules).*
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 🛠 Acceptance Criteria
+- [ ] Feature works on mobile and desktop.
+- [ ] [Add specific technical requirement here]

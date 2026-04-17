@@ -1,3 +1,5 @@
+⚠️ Important: All contributors must adhere to the NSC Tech Hub Governance and pass the Vetting Loop before submitting code.
+
 # Contributing to NSC Tech Hub Projects
 
 Welcome! To maintain our institutional standards and ensure your work is recognized, all contributors must follow this workflow:
